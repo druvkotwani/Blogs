@@ -1,4 +1,4 @@
-## What is Cookie Consent test ?
+## What is Cookie Consent ?
 
 A cookie consent banner informs users about the use of cookies on your website and requests their consent to collect and process their data.
 
